@@ -1,5 +1,3 @@
-# Zero-Shot-Image-Restoration-with-Diffusion-Models-Mini-Version-
-
 # Zero-Shot Image Restoration with a Minimal Diffusion Model
 
 - **Author:** Lin Xiaoya
