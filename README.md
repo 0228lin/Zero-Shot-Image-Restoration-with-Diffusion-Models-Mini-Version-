@@ -6,7 +6,7 @@
 ## Project Overview
 
 This project demonstrates zero-shot image denoising using a lightweight diffusion model, designed to run on CPU and entry-level GPUs.  
-- Images: 32x32 or 64x64 pixels, 10–100 samples
+- Images: 32x32 pixels, 10–100 samples
 - Model: Tiny UNet (fewer layers/filters)
 - Tasks: Add noise, train on synthetic noise, test on unseen noise types (zero-shot)
 - No dataset download required—uses a small sample set.
