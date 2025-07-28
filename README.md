@@ -32,6 +32,25 @@ This project demonstrates zero-shot image denoising using a lightweight diffusio
 - Runs on most laptops (CPU or any GPU)
 - Full experiment < 1 hour
 
+
+## Quickstart: Download and Sample CIFAR100 Images
+
+1. **Install requirements:**
+pip install -r requirements.txt
+
+
+2. **Download and sample images for your project:**
+python data/fetch_and_sample.py
+
+This will create `data/sample_images/` with 50 small RGB images from 10 random categories.
+
+3. **Demo: Visualize the sampled images**
+
+Open and run `notebooks/demo_sample_images.ipynb` to see a grid of the sampled input images.
+
+---
+
+
 ## Acknowledgements
 
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) (reference)
