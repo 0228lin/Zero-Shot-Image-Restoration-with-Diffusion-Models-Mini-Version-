@@ -17,3 +17,5 @@ class TinyUNet(nn.Module):
         x3 = self.act(self.dec1(x2))
         x4 = self.outc(x3 + x1)
         return x4
+
+
