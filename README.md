@@ -1,7 +1,7 @@
 # Zero-Shot Image Restoration with a Minimal Diffusion Model
 
-- **Author:** Lin Xiaoya
-- **Inspired by:** Prof. Wen Bihan’s CVPR 2025 work
+**Author:** Lin Xiaoya  
+**Inspired by:** Prof. Wen Bihan’s CVPR 2025 work
 
 ## Project Overview
 
