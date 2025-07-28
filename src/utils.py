@@ -16,3 +16,4 @@ def plot_side_by_side(orig, noisy, denoised, save_path):
     plt.tight_layout()
     plt.savefig(save_path)
     plt.close()
+
